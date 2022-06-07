@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![variety82's GitHub stats](https://github-readme-stats.vercel.app/api?username=variety82&show_icons=true&theme=radical)
+
+
+## :mailbox_with_mail: Contacts
