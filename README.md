@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&text=Hello%2&desc=I'm%20Chang%20Hyun)
 
 <!--
 **variety82/variety82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![variety82's GitHub stats](https://github-readme-stats.vercel.app/api?username=variety82&show_icons=true&theme=radical)
+![variety82's GitHub stats](https://github-readme-stats.vercel.app/api?username=variety82&show_icons=true)
 
 
 ## :mailbox_with_mail: Contacts
+
